@@ -1,0 +1,15 @@
+{
+  "name": "cpumem-print",
+  "version": "1.0.0",
+  "description": "Print CPU and Memory on console",
+  "main": "lib",
+  "repository": "git@github.com:FujiHaruka/cpumem-print.git",
+  "author": "FujiHaruka",
+  "license": "MIT",
+  "dependencies": {
+    "asleep": "^1.0.3",
+    "cli-color": "^1.2.0",
+    "commander": "^2.12.2",
+    "usage": "^0.7.1"
+  }
+}
