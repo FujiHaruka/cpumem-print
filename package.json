@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Print CPU and Memory on console",
   "main": "lib",
+  "bin": {
+    "cpumem-print": "./bin/cpumem-print.js"
+  },
   "repository": "git@github.com:FujiHaruka/cpumem-print.git",
   "author": "FujiHaruka",
   "license": "MIT",
